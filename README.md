@@ -1,3 +1,33 @@
+# 🚀 React Login Page (SCSS)
+
+A simple and modern login page built using **React + Vite + Sass (SCSS)**.  
+This project is part of my journey to learn frontend development by building real-world UI components.
+
+---
+
+## 📌 Features
+
+- Clean and responsive login UI
+- Built with React functional components
+- Uses `useState` for form handling
+- Styled using SCSS (Sass)
+- Beginner-friendly project structure
+
+---
+
+## 🛠️ Tech Stack
+
+- React (Vite)
+- JavaScript (ES6+)
+- SCSS (Sass)
+- HTML5 & CSS3
+
+---
+
+## 📂 Project Structure
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
